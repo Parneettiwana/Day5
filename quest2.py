@@ -1,5 +1,4 @@
-#RAMANDEEP SINGH
-#22076254
+
 RED = "red"
 BLUE = "blue"
 YELLOW = "yellow"
